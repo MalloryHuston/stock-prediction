@@ -1,5 +1,5 @@
 # Stock Price Predictor
-Predicting different stock prices using Long Short-Term Memory Recurrent Neural Network in Python using TensorFlow 2 and Keras.
+This algorithm predicts different stock prices using Long Short-Term Memory Recurrent Neural Network in Python using TensorFlow 2 and Keras.
 
 <b>REQUIREMENTS:</b>
 
